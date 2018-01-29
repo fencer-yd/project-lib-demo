@@ -1,0 +1,14 @@
+{
+  "name": "wh-project-lib",
+  "description": "",
+  "main": ["index.js"],
+  "authors": [
+    "fencer-yd <982039620@qq.com>"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git@gitlab.com:police_app/project-lib.git"
+  },
+  "license": "Apache License, Version 2.0",
+  "public": true
+}
